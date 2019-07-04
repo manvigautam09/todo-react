@@ -1,0 +1,74 @@
+.heading {
+  font-size: 100px;
+  text-align: center;
+  color: grey;
+}
+.todobox {
+  margin-left: auto;
+  margin-right: auto;
+  width: 520px;
+
+  margin-top: 50px;
+  /* height: 400px; */
+  border-bottom: solid 1px grey;
+  border-right: solid 1px grey;
+  border-left: solid 1px grey;
+  /* overflow-x: hidden;
+  overflow-x: auto; */
+  font-size: 50px;
+}
+.input_tasks {
+  width: 100%;
+}
+.box {
+  width: 99%;
+  height: 50px;
+  font-size: 30px;
+
+  padding-top: 10px;
+}
+.form_css {
+  margin-top: -10px;
+}
+.h1 {
+  text-align: center;
+}
+.display_tasks {
+  list-style-type: none;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  padding-left: 0px;
+}
+.displayed_fields {
+  margin-top: 0px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid 1px rgb(231, 226, 226);
+}
+.checkboxStyling {
+  border-radius: 1000px;
+}
+.del_button {
+  border: none;
+  color: red;
+}
+.tasks_lists {
+  border: none;
+}
+.lowerdiv {
+  color: #808080;
+  display: flex;
+  font-size: 30px;
+  justify-content: space-between;
+}
+.r_ldiv {
+  display: flex;
+}
+.lias {
+  color: inherit;
+  margin: 3px;
+  padding: 3px 7px;
+  text-decoration: none;
+  border: 1px solid transparent;
+  border-radius: 3px;
+}
